@@ -22,9 +22,7 @@ The drag force being computed is quadratic and follows the form:
 
 The full time dependent equation motion is:
 
-![second equation](https://latex.codecogs.com/gif.latex?F_{net}=F_g&space;-&space;F_D)
-
-![third equation](https://latex.codecogs.com/gif.latex?ma(t)=mg&space;-&space;\frac{1}{2}{\rho}v^2C_dA)
+![second equation](https://latex.codecogs.com/gif.latex?F_{net}=F_g-F_D&space;\underset{yields}{\rightarrow}&space;ma(t)=mg&space;-&space;\frac{1}{2}{\rho}v^2C_dA)
 
 ## Example Run
 
@@ -41,7 +39,7 @@ dt = 0.001                      # define time step for approximation [sec]
 timeTot = 5                     # define total time to run
 v_initial = -100                # inital velocity of object [ft/sec]
 ```
-
+![fig1](https://github.com/nasriv/QuadDrag/blob/master/Fig1.png)
 
 ## Installation
 Code written in Python3. Utilizies matplotlib.pyplot and numpy python packages. Edit user parameters in QuadDrag.py file and run using python

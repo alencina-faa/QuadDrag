@@ -20,7 +20,7 @@ The drag force being computed is quadratic and follows the form:
 
  * &rho; is the fluid density
 
-The full time dependent equation motion is:
+The full time dependent equation of motion is:
 
 ![second equation](https://latex.codecogs.com/gif.latex?F_{net}=F_g-F_D&space;\underset{yields}{\rightarrow}&space;ma(t)=mg&space;-&space;\frac{1}{2}{\rho}v(t)^2C_dA)
 

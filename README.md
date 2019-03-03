@@ -44,7 +44,7 @@ v_initial = -100                # inital velocity of object [ft/sec]
 ## Installation
 Code written in Python3. Utilizies matplotlib.pyplot and numpy python packages. Edit user parameters in QuadDrag.py file and run using python
 
-Mathematical equations visuals developed using: https://www.codecogs.com/latex/eqneditor.php
+Mathematical equation visuals developed using: https://www.codecogs.com/latex/eqneditor.php
 
 
        

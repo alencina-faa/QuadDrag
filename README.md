@@ -22,7 +22,7 @@ The drag force being computed is quadratic and follows the form:
 
 The full time dependent equation of motion is:
 
-![second equation](https://github.com/nasriv/QuadDrag/blob/master/TimeSeriesEqn.png.png)
+![second equation](https://github.com/nasriv/QuadDrag/blob/master/TimeSeriesEqn.png)
 
 ## Example Run
 

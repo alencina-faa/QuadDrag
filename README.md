@@ -10,7 +10,7 @@ The equation of motion being solved is:
 
 The drag force being computed is quadratic and follows the form:
 
-![first equation](https://latex.codecogs.com/gif.latex?F_D&space;=&space;\frac{1}{2}{\rho}v^2C_dA) 
+![first equation](https://github.com/nasriv/QuadDrag/blob/master/Drag%20Equation.png) 
 
  * C<sub>D</sub> is the drag coefficient
 

@@ -49,7 +49,7 @@ dt = 0.001 # define time step for approximation [sec]
 timeTot = 10 # define total time to run
 v_initial = 0 # inital velocity of object [ft/sec]
 ```
-![fig1](https://github.com/nasriv/QuadDrag/blob/master/Fig1.png)
+![fig1](https://github.com/alencina-faa/QuadDrag/blob/master/Fig1.png)
 
 ## Installation
 Code written in Python3. Utilizies matplotlib.pyplot and numpy python packages. Edit user parameters in QuadDrag.py file and run using python
